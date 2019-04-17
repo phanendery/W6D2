@@ -1,0 +1,36 @@
+/* PHASE 9: Forms */
+
+.content-main {
+  display: flex;
+}
+
+.create-post {
+  background: lightgray;
+  display: block;
+  margin-left: 10px;
+  width: 550px;
+  height: 300px;
+}
+
+.post-title {
+  display: flex;
+  background: white;
+  width: 400px;
+  margin-left: 20px;
+}
+
+.post-body {
+  display: flex;
+  background: white;
+  width: 400px;
+  margin-left: 20px;
+}
+
+
+.post-wall {
+  background: green;
+  font-weight: bold;
+  color: white;
+  padding: 10px;
+  
+}
